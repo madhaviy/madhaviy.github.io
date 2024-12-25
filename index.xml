@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madhavi Yenugula</title>
-    <link>http://www.madhavi.org/</link>
+    <link>https://www.madhavi.org/</link>
     <description>Recent content on Madhavi Yenugula</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.madhavi.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.madhavi.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.madhavi.org/about/</link>
+      <link>https://www.madhavi.org/about/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.madhavi.org/about/</guid>
+      <guid>https://www.madhavi.org/about/</guid>
       <description>&lt;p&gt;I am a Software Engineer at Google working on Large Language Models and their&#xA;applications to &lt;a href=&#34;https://blog.google/products/search/generative-ai-google-search-may-2024/&#34;&gt;AI Overviews for&#xA;Search&lt;/a&gt;.&#xA;I&amp;rsquo;m fortunate to have been at Google through the golden age of Language Models,&#xA;and got to contribute to multiple generations of LLMs - &lt;a href=&#34;https://blog.google/products/search/introducing-mum/&#34;&gt;Multitask Unified&#xA;Model (MUM)&lt;/a&gt;, and&#xA;&lt;a href=&#34;https://blog.google/technology/ai/google-gemini-ai/&#34;&gt;Gemini&lt;/a&gt;. I also have deep&#xA;domain expertise in Search, having led several highly impactful launches to&#xA;Google Search, particularly on query and document understanding.&lt;/p&gt;</description>
     </item>
   </channel>
